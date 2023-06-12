@@ -1,14 +1,3 @@
-############################################### Book Unity ########################################
-#ID MEMBERS ---- NAME
-#1201101864 ---- AFIF DZAKIRIN BIN MOHD AZLI
-#1201101761 ---- ILYANI SHAHNAZ BINTI SHUKOR
-#1201101871 ---- MUHAMMAD ZAFRI BIN MARWAN
-#1201101522 ---- RAFIE BIN RAUZAN
-#GROUP : TT4L
-#TUTOR : SIR NEOH KEE LIN
-#PROJECT NAME : BOOKSHOP SYSTEM
-#####################################################################################################
-
 from tkinter import *
 from tkinter import ttk
 import tkinter as tk
